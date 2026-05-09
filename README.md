@@ -15,7 +15,7 @@ This app uses Google AdMob to display ads. AdMob may collect device information 
 This app is not directed at children under 13. We do not knowingly collect data from children.
 
 ## Contact
-If you have any questions, contact us at: watershere@gmail.com
+If you have any questions, contact us at: fritohouseproductions@gmail.com
 
 ## Changes
 We may update this policy occasionally. Changes will be posted on this page.
